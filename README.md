@@ -19,6 +19,30 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 
 ● Do sales figures vary between geographic regions?
 
+
+🔍 **Key Insights**
+- Movies rated PG-13 generated the highest total revenue in a given year ($13,856), followed by NC-17 and PG films, while G-rated movies
+earned the least.
+- Average rental duration is 5 days, with an average rental rate of $2.98 and film length of 115 minutes.
+- India, China, the United States, Japan, and Mexico contribute the highest customer lifetime value, showing strong and loyal customer bases.
+- Sports, Sci-Fi, and Animation are the top-earning genres, while Music, Travel, and Children genres show the lowest engagement and revenue.
+
+
+📈 **Recommendations**
+
+- Highlight PG-13 movies since they are the most watched. Also promote other top-earning movies to keep the catalog balanced.
+- Set rental prices and rental lengths based on what customers already prefer about 5 days on average.
+- Expand catalog and marketing for Sports, Sci-Fi, and Animation content and use targeted promotions, bundles, or curated collections to boost interest in Music, Travel, and Children content.
+- Prioritize marketing and digital growth in India, China, and the U.S.—the highest-value customer regions.
+- Personalize recommendations, test flexible pricing, and improve the digital user experience.
+- Use dashboards to track trends by region, genre, and customer type for proactive decision-making.
+
+
+🛠 **Tools Used**
+- SQL / PostgreSQL for data extraction & analysis
+- Tableau for visualizations
+
+
 📊**Data Set**
 
 Data set contains information about Rockbuster’s film inventory, customers, and payments, among other things.
