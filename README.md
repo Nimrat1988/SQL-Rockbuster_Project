@@ -19,6 +19,14 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 
 ● Do sales figures vary between geographic regions?
 
+<img width="1480" height="865" alt="Revenue by genre" src="https://github.com/user-attachments/assets/75f0ee8a-7a35-4ce4-b8ad-1280a296a6e0" />
+
+<img width="361" height="866" alt="Revenue by rating" src="https://github.com/user-attachments/assets/e701c5ce-33c3-4606-9024-52d17fdafa4c" />
+
+<img width="1847" height="866" alt="Revenue by country" src="https://github.com/user-attachments/assets/058a50e3-2b2b-4c60-a4db-1199d62fbfaa" />
+
+
+
 
 🔍 **Key Insights**
 - Movies rated PG-13 generated the highest total revenue in a given year ($13,856), followed by NC-17 and PG films, while G-rated movies
